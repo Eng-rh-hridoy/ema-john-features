@@ -7,3 +7,11 @@
     margin-right: 5px;
     border-right: 1px solid lightgray;
 }
+.review-order-btn{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid darkgoldenrod;
+    border-radius: 5px;
+    cursor: pointer;
+}

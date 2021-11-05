@@ -5,9 +5,9 @@ import './Header.css';
 const Header = () => {
     return (
         <div className = "header">
-            <img src={logo} alt="" srcset="" />
+            <img src={logo} alt="" />
             <nav>
-                <a href="/shop">Shop</a>
+                <a href="/">Shop</a>
                 <a href="/review">Review</a>
                 <a href="/inventory">Manage Inventory</a>
             </nav>
